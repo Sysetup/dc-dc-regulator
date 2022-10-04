@@ -1,3 +1,3 @@
 # DC-DC Regulator.
 
-This device uses many dc-dc regulators as an unique module.
+This design models a device using many dc-dc regulators as an unique module.
